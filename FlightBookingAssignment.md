@@ -158,7 +158,7 @@ Time Between Flights: 22 hours
 ## Submission:
 - Implement the required functionality in each method.
 - Test the system with various flight schedules, time zones, and durations.
-- Submit the completed `.java` file with your test cases and outputs.
+- Upload your solution to github and paste the link to the file in Canvas
 
 ---
 
