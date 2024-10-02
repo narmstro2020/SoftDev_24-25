@@ -29,9 +29,9 @@ public class LocaleDateConversion {
     private static void printFormattedDate(Locale locale, LocalDate date) {
         // TODO: Print the language and country of the locale using locale.getLanguage() and locale.getCountry()
 
-        // TODO: Format and print the date in LONG format using DateTimeFormatter and the provided locale
+        // TODO: Format and print the date in LONG (MMMM, d, yyyy) format using DateTimeFormatter and the provided locale
 
-        // TODO: Format and print the date in FULL format using DateTimeFormatter and the provided locale
+        // TODO: Format and print the date in FULL (EEEE, MMMM, d, yyyy) format using DateTimeFormatter and the provided locale
 
         // TODO: Print an empty line to separate the output for each locale
     }
